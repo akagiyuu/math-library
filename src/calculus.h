@@ -1,6 +1,5 @@
 #include "helper/option.h"
-
-typedef double (*function)(double);
+#include "helper/function.h"
 
 Optional(double) lim(function f, double a);
 Optional(double) derivative(function f, double x);

@@ -1,5 +1,4 @@
 #include "calculus.h"
-#include "helper/option.h"
 #include <math.h>
 #include <stdio.h>
 
